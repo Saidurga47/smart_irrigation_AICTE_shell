@@ -1,0 +1,2 @@
+# smart_irrigation_AICTE_shell
+AICTE intenship smart_irrigation project
